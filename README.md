@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prathviraj
 - 👀 I’m interested in A.I. M.L. and Automation
-- 🌱 I’m currently learning Python and Django
+- 🌱 I’m currently learning Python and m.l.
 - 💞️ I’m looking to collaborate on mini/personale projects on python/embedded system
 - 📫 E-mail : prathvimr@gmail.com phone number : +91-7892451885
 
